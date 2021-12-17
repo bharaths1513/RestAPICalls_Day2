@@ -19,6 +19,7 @@ public class RestAPIController {
 		return "Hello from Bridgelabz...";
 	}
 	
+	
 	/**
 	 * Calling Get Request Method and pass name as query parameter
 	 * localhost:8080/hello/query?name=Mark
